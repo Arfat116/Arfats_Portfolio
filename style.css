@@ -1,0 +1,147 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-color: black;
+    
+}
+
+body{
+    background-color: black;
+    color: white !important;
+}
+
+
+#spanid{
+   color: crimson;
+}
+.nav{
+  
+    display: inline-block;
+    margin: 20px;
+    position: relative;
+    /* bottom: 15px; */
+    left: 650px;
+    
+    
+}
+
+
+
+#arfat{
+    position: absolute;
+    height: 5px;
+    width: 60px;
+color: white;
+    top: 15px;
+    left: 100px;
+}
+#fd{
+    font-size: 50px;
+    font-family: cursive;
+}
+
+#background{
+    height: 600px;
+    width: 600px;
+    position: fixed;
+    left: 650px;
+    bottom: 20px;
+    
+    
+}
+
+
+#carfat{
+    color: crimson;
+    /* position: absolute; */
+    font-size: 50px;
+    
+}
+
+.contain{
+    position: absolute;
+    bottom: 300px;
+    left: 100px;
+    font-size: larger;
+    color: white;
+}
+
+
+/* seccon part */
+.second{
+    height: 600px;
+    width: 100%;
+    color: white;
+   
+    position: absolute;
+    top: 700px;
+}
+.imgSecond{
+    height: 300px;
+    width: 300px;
+    border-radius: 2px solid green;
+    background-color: green;
+    position: relative;
+    left: 100px;
+    top: 40px;
+}
+
+.about_me{
+    position: relative;
+    bottom: 250px;
+    left: 700px;
+    display: inline-block;
+}
+.about{
+    position: relative;
+    display: inline;
+    left: 420px;
+    bottom: 220px;
+}
+
+.skills{
+    position: relative;
+    left: 500px;
+    bottom: 180px;
+    display: inline;
+}
+.projects{
+    position: absolute;
+    left: 700px;
+    bottom: 375px;
+}
+.education{
+    position: absolute;
+    left: 900px;
+    bottom: 375px;
+}
+
+/* third part */
+
+.project{
+    width: 100%;
+    height: 600px;
+   
+    position: absolute;
+    top:1300px;
+   left: 0px;
+}
+
+
+
+
+
+/* fourth */
+.formpart{
+    height: 600px;
+    width: 100%;
+    border: 2px solid white;
+    position: absolute;
+    top: 1900px;
+}
+
+.contact_me{
+    position: relative;
+    top: 40px;
+    left: 100px;
+}
